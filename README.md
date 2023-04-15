@@ -13,6 +13,7 @@
 [❗・Important](#important)<br>
 [👑・Features](#features)<br>
 [⚙・Config.json example](#configjson-example)<br>
+[💎・Get Token](#get-token)<br>
 [📍・OwO DM channel id](#owo-dm-channel-id)<br>
 [📚・Discord RPC](#discord-rpc)<br>
 [🔗・Required Links](#required-links)<br>
@@ -26,6 +27,7 @@
 ## 👑・Features
 
 -   All the features of version 1.0.0
+-   Captcha(Ban) Protection v0.1.5 (beta)
 -   Auto quest
 
 ## ⚙・config.json example
@@ -81,6 +83,12 @@
     }
 }
 
+
+```
+
+## 💎・Get Token
+```js
+(webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken()
 
 ```
 
