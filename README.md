@@ -1,6 +1,8 @@
 [Version 1.0.2 (no longer support)](https://github.com/mid0aria/owofarmbot)<br>
 
 <h1 align="center">OwO Farm Bot v2.0.0 with UI COMING SOON :)</h1>
+<h2 align="center">Please star the repository if you want the UI version to come. <br>
+Repository: https://github.com/Mid0aria/owofarmbot</h2>
     
 <p align="center">
 ⭐⭐⭐ You can also give this repository a star to show more people and they can use this repository<br>
